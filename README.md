@@ -8,6 +8,7 @@ Simple Task Manager web app with PHP and MySQL.
 3. HTML
 4. CSS
 
+Manage Task
 
 ![manage task](https://github.com/pavankumar130/task-manager/assets/122618703/f615397c-2268-4a3c-976b-73dcc35725c5)
 
