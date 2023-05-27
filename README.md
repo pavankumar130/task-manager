@@ -9,19 +9,23 @@ Simple Task Manager web app with PHP and MySQL.
 4. CSS
 
 Manage Task
+![manage task](https://github.com/pavankumar130/task-manager/assets/122618703/5801a927-69b2-41b1-a6e6-5276518de921)
 
-![manage task](https://github.com/pavankumar130/task-manager/assets/122618703/f615397c-2268-4a3c-976b-73dcc35725c5)
+
 
 Manage List
-![manage list](https://github.com/pavankumar130/task-manager/assets/122618703/fe951290-bfc3-4e09-8595-ad7a2ef59ac9)
+![manage list](https://github.com/pavankumar130/task-manager/assets/122618703/33590812-54f4-4656-bf31-2201426c1b2a)
+
 
 
 Add Task
-![add task](https://github.com/pavankumar130/task-manager/assets/122618703/9196457a-7e2e-46c9-ad88-7125dbbc830c)
+![add task](https://github.com/pavankumar130/task-manager/assets/122618703/07e9419e-e47e-4a6c-a431-929b6db5b877)
+
 
 
 Add List
-![add list](https://github.com/pavankumar130/task-manager/assets/122618703/5f8a8f3c-1747-48a3-89f3-9bcfbe61272f)
+![add list](https://github.com/pavankumar130/task-manager/assets/122618703/b662c58e-2c97-4b2f-ba6b-8e129cde91a9)
+
 
 
 
