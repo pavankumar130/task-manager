@@ -20,6 +20,7 @@ Add Task
 ![add task](https://github.com/pavankumar130/task-manager/assets/122618703/9196457a-7e2e-46c9-ad88-7125dbbc830c)
 
 
+Add List
 ![add list](https://github.com/pavankumar130/task-manager/assets/122618703/5f8a8f3c-1747-48a3-89f3-9bcfbe61272f)
 
 
